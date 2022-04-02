@@ -1,0 +1,12 @@
+UPDATE `medical_records` SET `___neoadj_chemo___start_date`=""  WHERE `___neoadj_chemo___start_date`="1900-01-01";
+UPDATE `medical_records` SET `___neoadj_chemo___finish_date`=""  WHERE `___neoadj_chemo___finish_date`="1900-01-01";
+UPDATE `medical_records` SET `___op_done___invasion_date`=""  WHERE `___op_done___invasion_date`="1900-01-01";
+UPDATE `medical_records` SET `___adjuvant_chemotherapy_conduct___start_date`=""  WHERE `___adjuvant_chemotherapy_conduct___start_date`="1900-01-01";
+UPDATE `medical_records` SET `___adjuvant_chemotherapy_conduct___finish_date`=""  WHERE `___adjuvant_chemotherapy_conduct___finish_date`="1900-01-01";
+UPDATE `medical_records` SET `___relapse_date`=""  WHERE `___relapse_date`="1900-01-01";
+UPDATE `medical_records` SET `___relapse_local___chemo_therapy___second_line___start_date`=""  WHERE `___relapse_local___chemo_therapy___second_line___start_date`="1900-01-01";
+UPDATE `medical_records` SET `___relapse_local___chemo_therapy___second_line___finish_date`=""  WHERE `___relapse_local___chemo_therapy___second_line___finish_date`="1900-01-01";
+UPDATE `medical_records` SET `___relapse_local___chemo_therapy___third_line___start_date`=""  WHERE `___relapse_local___chemo_therapy___third_line___start_date`="1900-01-01";
+UPDATE `medical_records` SET `___relapse_local___chemo_therapy___third_line___finish_date`=""  WHERE `___relapse_local___chemo_therapy___third_line___finish_date`="1900-01-01";
+UPDATE `medical_records` SET `___study_retirement_date`=""  WHERE `___study_retirement_date`="1900-01-01";
+UPDATE `medical_records` SET `___death_date`=""  WHERE `___death_date`="1900-01-01";
