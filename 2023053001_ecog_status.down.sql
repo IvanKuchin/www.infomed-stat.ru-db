@@ -1,0 +1,1 @@
+ALTER TABLE `medical_records` DROP `___ecog_status`;

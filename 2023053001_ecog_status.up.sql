@@ -1,0 +1,1 @@
+ALTER TABLE `medical_records` ADD `___ecog_status` VARCHAR(32) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT '' AFTER `___non_pancreatobiliary_sickness`;
